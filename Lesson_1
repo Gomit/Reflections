@@ -1,0 +1,24 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+1:sparade mig massor av tid
+2: Gick rakt på sak och tog fram alla förändringar som gjorts så att jag direkt kunde isolera problemet
+3: Är en stor fördel när jag har mer än 5 rader kodtext!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1:it allows me to view my progress
+2: when ever i encounter a problem it allows me to quickly identify where i made my first wrong. and how to avoid these mistakes for the future.
+3: it allos me to always make progress as mistakes are irrelevant as i can always continue on an old version which was functioning
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+1: it is not totally uncommon that you miss commiting you project, that you commit to small or commit to big. 
+2: However if you find a good rythm of how to commit then commiting can be a great tool for finding bugs quick and easy. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+1:cause saving separately and saving all files in one commit has different functions for different tasks. and are thus prefered more by different services, like google docs vs git
+
+How can you use the commands git log and git diff to view the history of files?
+1:git log shows me all saved instances and let me revisit my previous code
+2: git diff shows me specifically what has changed in one file but not the other
+this saves me a lot of time and a lot of brain energy.
+
+How might using version control make you more confident to make changes that could break something?
+!it definately makes me more confident to add crazy code which i do not know what it does, as i alweays can at any time choose to go back to en previous verson om my code.
