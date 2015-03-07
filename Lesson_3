@@ -1,0 +1,12 @@
+git desktop/github_lessons
+#nu riktar jag mig in på mappen i vilket jag vill spara saker
+
+git add .
+# att “adda” en “.” punkt innebär att jag lägger till alla filerna i mappen
+
+git commit -m "First commit"
+#genom detta kommandot så commitar jag mina filer och namnger den med first name
+
+git push origin master
+#genom detta kommandot så kopplar jag samman mitt commit med GitHub
+
